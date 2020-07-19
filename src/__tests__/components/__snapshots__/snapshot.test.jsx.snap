@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot it shows the expected text when clicked 1`] = `
+<div
+  className="library"
+>
+  <span
+    data-testid="span"
+  >
+    0
+  </span>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+      點我
+    </button>
+  </div>
+</div>
+`;
+
+exports[`snapshot it shows the expected text when clicked 2`] = `
+<div
+  className="library"
+>
+  <span
+    data-testid="span"
+  >
+    1
+  </span>
+  <div>
+    <button
+      onClick={[Function]}
+    >
+      點我
+    </button>
+  </div>
+</div>
+`;
